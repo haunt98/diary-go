@@ -3,5 +3,5 @@
 Create Obsidian daily note
 
 ```sh
-DIARY_DIR=./test diary-go
+DIARY_DIR=./diaries diary-go
 ```
